@@ -6,3 +6,6 @@ https://github.com/realrashid/sweet-alert
 
 ## Datatables
 https://github.com/yajra/laravel-datatables
+
+
+Alteração no Notes para ver o Git
