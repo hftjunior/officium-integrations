@@ -11,3 +11,5 @@ https://github.com/yajra/laravel-datatables
 Alteração no Notes para ver o Git
 
 alterei o que eu quiser
+
+alteração feita no master
