@@ -1,0 +1,8 @@
+## Laravel ACL
+https://github.com/mateusjunges/laravel-acl
+
+## Sweetalert
+https://github.com/realrashid/sweet-alert
+
+## Datatables
+https://github.com/yajra/laravel-datatables
